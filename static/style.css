@@ -44,7 +44,7 @@ box-sizing: border-box;
 
     background:center/cover no-repeat url("../static/bg.jpeg");
     height: 500px;
-    color:#fa1f1f;
+    color:white;
     padding: 127px;
     padding-bottom: 40px;
     font-size: 35px;
