@@ -13,7 +13,7 @@ box-sizing: border-box;
     background-color: #0c2688;
     padding: 12px 28px;
     color: white;
-     font-size: 25px;
+     font-size: 20px;
     
     
 }
@@ -26,8 +26,8 @@ box-sizing: border-box;
     text-decoration: none;
     padding: 7px 4px;
     color: white;
-    font-size: 38px;
-    margin-left: 15px;
+    font-size: 28px;
+    margin-left: 5px;
     font-style: bold;
     
 }
