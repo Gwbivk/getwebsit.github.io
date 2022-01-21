@@ -31,6 +31,15 @@ box-sizing: border-box;
     font-style: bold;
     
 }
+.we  a{
+    cursor: pointer;
+    text-decoration: none;
+    padding: 7px 4px;
+    color: white;
+    font-size: 25px;
+    font-style: bold;
+    
+}
 #navbar li a:hover{
     color: rgb(93, 199, 202);
 
