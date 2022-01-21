@@ -10,7 +10,7 @@ box-sizing: border-box;
     display: flex;
     flex-direction: row;
     
-    background-color: #0c2688;
+        background-image: linear-gradient(180deg, #fd6f6f, #ff7092);
     padding: 12px 28px;
     color: white;
      font-size: 20px;
