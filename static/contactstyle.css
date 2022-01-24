@@ -12,6 +12,14 @@ input{
     border: 2px solid black;
     border-radius: 5px;
 }
+.office-form-theme-primary-background, .office-form-theme-sort-item.office-form-selected-item, .office-form-theme-sort-item:focus {
+    background: #ffebcd;
+    color: #FFFFFF;
+}
+.office-form-theme-primary-background, .office-form-theme-sort-item.office-form-selected-item, .office-form-theme-sort-item:focus {
+    background: #ffebcd;
+    color: #7e61e8;
+}
 textarea{ 
     /* des1 vasu*/
     display: block;
